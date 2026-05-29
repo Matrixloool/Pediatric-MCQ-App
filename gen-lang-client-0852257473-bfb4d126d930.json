@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gen-lang-client-0852257473",
+  "private_key_id": "bfb4d126d9302051dc239e874331d91632cdf930",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHxFafy2olJbW4\nv7WeGdSZ686bhKI5t6lSAkP1qgDCLhvSFUQanEqzYT/f1NifFDA8FXAvF1OMh/+a\nRFncHiwTXkR78wcXr3qWgJxveuoJW+yD/LL+JpqZz3Od9ymCb4iddDXzWo0cRvyS\nILZg8Ka+IXEOphM8OYNh+6ZEeIWzonPvPzIt0Th7W3VUSJjhCG4UJWBj3DkOEQdI\nOBL6GmollMUW6DKTApoTKYxW1UFIIspABVKROgneMb4VPFgbCaHhf+oXLGv1RqKI\n9vaexjV8n3qFpo+nYhiGH/qXH/6DhXjRcvbyCPtgPxR/HZZPnJhk2Awlx++S2eTx\nF4mgMFl3AgMBAAECggEAORi1d5OwwXBPScBFnSwd12aOFWYp5dxIIV/zY6ZU9Csw\nmXGplv9/3FhZ5NRVm9Yt2SZ5e4QrxZljZYjOtDrNdzW01kaGiu8FVznoPHbBqK4k\n4i6aTEjlXDvufEJWE2lkfzhlaSpC9ceWTf/akMeHqQUu5rRx//8iPaGrCpv1/vrY\nnBvVxmT4V4aGUYyhil5kHquUWrM3i/a0SB2CkelqI7UTfonaRiGCJRINS9zOshZV\nw4p81hHP6qqYPhuxG+lIwrfnA/7mAdTykg1kwqH84cPN1b9YXbFEF9rnYOERsyXT\nEKX6K7U/yjOkhLEDefkUipGu9cTxUvcmAxJAdWdClQKBgQDyI+7L07xd3dnuzQYX\nIst/vs93P7IIvuriIU6ueLka0FG+39uMffleBcFbiJoTitfsCwHRRg6cKkjFLji7\n7M3j7MOBE6a+y+yPGJO6BOb8D7oZBt4/XLQv+Iqxgl9NoV6j1OKe1cwRJmGGApK+\nZna4wzF//kPUNRFoL2zgrnL57QKBgQDTM4K4/fM5OU871pNrg5g5ubq0AfgtrsP1\nmAxnil3DPVsIvCjTUc79WtHrQZ5io2Z2nUK/+4fz/IPODdzo1hx2kT1DvSjkcM83\nL0CIS1wLDOeSsDFAtEYxoLy7RvHess17dKPSZgF1HaF3qIkQfdXXKa4gFasjV5lr\nS00y8V/kcwKBgDBrUQf/Kg6XG0ouQ0aDFbBQxomw+ffXvX5EbMhkqZccCwyhFPTu\nB9xuSDD2iuDXhb/Un6NqX+eIaQ7M5Flny/AE2z9HX7ONcZtXrcqnykyjFHKGthBz\niDCDgbBnQolyeEtIeZyLYggX5a53e0KJmLnvhkly3btkdTuhKCNxntotAoGBAIuN\ndcsWwigFnj1Dw5U/Fs7N0ngu9PX6jLEzDr87xkjDuetDqRY48DSoVhzE9wrmPUYT\nE5AXe/XT3KPCtT2EfLo7reecjfCkOceVCWcFpIQIuttKYMEIXXldZFe6wQcNzojM\nwZK8pCnmslKGokqrWykY+V1p8/MeZtlmoFQQ+fPRAoGAbL4zSH1ZtoqZTp1gUaqS\nXngKu7L/xyUrOekvgWdHbvFHPjFHqnxwQp4G7Gm+GUW6TFyaTlwql6vBEu7hNUCK\nnM3LryFCKnDGKWVjACvpM2lNO71ZdygAv7Up3NqK0sHIZzo7wrbSa2L3fks5AlPf\naaeqP+CidpkhA9CC6u+4iq8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pediatric-mcq@gen-lang-client-0852257473.iam.gserviceaccount.com",
+  "client_id": "105266678292128807798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pediatric-mcq%40gen-lang-client-0852257473.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
